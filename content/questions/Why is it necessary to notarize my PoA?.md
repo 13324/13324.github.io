@@ -1,5 +1,4 @@
 Title: Is it necessary to notarize my PoA for a secondary?
-Category: Questions
 
 There are 
 
