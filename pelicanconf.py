@@ -38,7 +38,7 @@ DEFAULT_DATE = "fs"
 
 BOOTSTRAP_CSS = "https://bootswatch.com/4/sandstone/bootstrap.css"
 
-PLUGINS = ['plugins.simple_footnotes']
+PLUGINS = ['plugins.simple_footnotes', "plugins.render_math"]
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
